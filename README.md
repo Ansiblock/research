@@ -30,7 +30,7 @@ Here are main features of Ansiblock:
     * Provide language independent Smart Contract development platform supporting C, C++, C#, Crystal, Java, Javascript, Objective-C, Python, Ruby, Rust, Scala, Swift languages.
 
 ## Ansiblock Architecture
-![Ansiblock Architecture](whitepaper/imgs/archi.png)
+![Ansiblock Architecture](whitepaper/imgs/archi.jpeg)
 
 ## Ansiblock Consensus
 Here are list of algorithms Ansiblock is using to achieve consensus. For more details please review our [whitepaper](whitepaper/Ansiblock%20Whitepaper%20Tech%200.1.pdf)
